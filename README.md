@@ -17,5 +17,5 @@ Build the Framework
 
 
 
- I have created a method to generate a rondom email each time using timeStampe of the creation time
+ I have created a method to generate a rondom email each time using timeStampe to register with unique email every time
  

@@ -18,12 +18,17 @@ Installation Process:
 
 ====================================
 
-Build the Framework 1- Create a Maven project through eclips 
+Build the Framework 
 
-1- Add All the dependencies in the pom.xml file I used selenium version 4.20 so it will not required to download any driver , TestNg 7.8 
+1- Create a Maven project through eclips 
 
-2- I used BeforeTest and AfterTest annotations so this has a lot of benifits as will prevent dublication of initialization and tearDown the browser each time 
+2- Add All the dependencies in the pom.xml file I used selenium version 4.20 so it will not required to download any driver , TestNg 7.8 
 
-3- Run the WeBookRegistration Class as TestNG test
+3- I used BeforeTest and AfterTest annotations so this has a lot of benifits as will prevent dublication of initialization and tearDown the browser each time 
+
+4- Run the WeBookRegistration Class as TestNG test
+
+===========================================
+
 
 I have created a method to generate a rondom email each time using timeStampe to register with unique email every time

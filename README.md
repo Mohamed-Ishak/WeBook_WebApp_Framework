@@ -15,6 +15,7 @@ Build the Framework
 3- I used BeforeTest and AfterTest annotations so this has a lot of benifits as will prevent dublication of initialization and tearDown the browser each time
 3- Run the WeBookRegistration Class as TestNG test
 
-==================================
+
+
  I have created a method to generate a rondom email each time using timeStampe of the creation time
  

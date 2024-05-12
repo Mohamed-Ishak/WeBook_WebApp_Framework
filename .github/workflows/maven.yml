@@ -28,7 +28,7 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn clean test WeBook_WebApp_Framework/pom.xml
+      run: mvn clean test /home/runner/work/WeBook_WebApp_Framework/WeBook_WebApp_Framework/pom.xml
       working-directory: WeBook_WebApp_Framework
 
 
